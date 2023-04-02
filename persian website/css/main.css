@@ -1,0 +1,17 @@
+body{
+    font-family: yekan;
+}
+
+
+.lh-1{
+    line-height: 30px;
+}
+.lh-2{
+    line-height: 35px;
+}
+
+
+header{
+    height: 100vh;
+    background: url(img/banner.jpg);
+}
